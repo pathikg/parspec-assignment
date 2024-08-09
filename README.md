@@ -2,9 +2,6 @@
 
 This project is a Streamlit application that extracts text from PDF files and classifies the content using a BERT-based model.
 
-![demo](./demo.gif)
-
-
 ## Prerequisites
 
 Before running the application, make sure you have the following installed:
